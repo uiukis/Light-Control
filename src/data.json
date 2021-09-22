@@ -1,0 +1,67 @@
+{
+  "lanes": [
+    {
+      "id": "PLANNED",
+      "title": "Em Planejamento",
+      "style": {
+        "width": 280
+      },
+      "cards": [
+        {
+          "id": "Pla1",
+          "title": "Cadastro de Usuários",
+          "label": "15 mins",
+          "description": "Lorem ipsu"
+        },
+        {
+          "id": "Plan2",
+          "title": "Dashboard de Clientes",
+          "label": "10 mins",
+          "description": "Lorem ipsu"
+        }
+      ]
+    },
+    {
+      "id": "DEVELOPMENT",
+      "title": "Em Desenvolvimento",
+      "style": {
+        "width": 280
+      },
+      "cards": [
+        {
+          "id": "Develop1",
+          "title": "Montagem do menu lateral",
+          "label": "15 mins",
+          "description": "Lorem ipsu"
+        },
+        {
+          "id": "Develop2",
+          "title": "Cadastro de Clientes",
+          "label": "15 mins",
+          "description": "Lorem ipseu"
+        }
+      ]
+    },
+    {
+      "id": "TEST",
+      "title": "Em Testes",
+      "style": {
+        "width": 280
+      },
+      "cards": [
+        {
+          "id": "Test1",
+          "title": "Login",
+          "label": "15 mins",
+          "description": "Lorem ipsu"
+        },
+        {
+          "id": "Test2",
+          "title": "Painel de Vendas",
+          "label": "15 mins",
+          "description": "Lorem ipsum"
+        }
+      ]
+    }
+  ]
+}
